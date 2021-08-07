@@ -1,26 +1,17 @@
 {
-  "name": "note-taker",
+  "name": "Homework01",
   "version": "1.0.0",
   "description": "## Description",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/silentsonata92/note-taker.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/silentsonata92/note-taker/issues"
-  },
-  "homepage": "https://github.com/silentsonata92/note-taker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "heroku": "^7.56.1",
-    "node": "^16.6.1",
-    "nodemon": "^2.0.12"
+    "uid": "^2.0.0"
   }
 }
