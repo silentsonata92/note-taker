@@ -1,4 +1,7 @@
 # NoteTaker
+
+<a href='https://note-taker-app-joon.herokuapp.com/notes'>Deployed Live Website</a>
+
 ## Description
 ---
 This notetaker application allows you to take notes and demonstrates basic CRUD functionality. You can create, read, update, and delete any notes that you write. This app was made using express and uid (unique id) npms. It is deployed on Heroku here:
